@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andrew Marritt",
+    "section": "",
+    "text": "Welcome. A line or two about who you are and what this site is for.\n\nAbout me\nMy writing\nCourses & books"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Your background, research interests, and experience."
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "This page will link out to each course or book as they’re added.\n\nCourse/book one — coming soon"
+  }
+]

@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Andrew Marritt"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: https://yournewsletter.substack.com
+        text: Writing
+      - href: courses.qmd
+        text: Courses
+
+format:
+  html:
+    theme: cosmo
+    toc: true
