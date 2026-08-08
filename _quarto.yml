@@ -10,7 +10,7 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: https://yournewsletter.substack.com
+      - href: https://andrewmarritt.substack.com
         text: Writing
       - href: courses.qmd
         text: Courses
