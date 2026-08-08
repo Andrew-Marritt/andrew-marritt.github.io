@@ -4,4 +4,4 @@ title: "Courses"
 
 This page will link out to each course or book as they're added.
 
-- Course/book one — coming soon
+- Bayesian Statistics for People Analytics — coming soon

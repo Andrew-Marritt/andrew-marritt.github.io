@@ -5,5 +5,5 @@ title: "Andrew Marritt"
 Welcome. A line or two about who you are and what this site is for.
 
 - [About me](about.qmd)
-- [My writing](https://yournewsletter.substack.com)
+- [My writing](https://andrewmarritt.substack.com)
 - [Courses & books](courses.qmd)
