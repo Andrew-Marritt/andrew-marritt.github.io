@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Andrew Marritt",
+    "title": "The personal website for Andrew Marritt",
     "section": "",
-    "text": "Welcome. A line or two about who you are and what this site is for.\n\nAbout me\nMy writing\nCourses & books"
+    "text": "Welcome. I’m an analyst, coach and teacher. One of the pioneers in the discipline of People Analytics I’m passionate about helping those new to the discipline learn how to create impact through their work.\nAn economist by training, I work to combine a deep, research-based, multi-disciplinary understanding of the world of work with a wide-range of innovative analytic approaches. For 10 years I pioneered the use of Machine Learning approaches, especially text analysis, to understand employee data.\nThese days I act as an analytics consultant, an educator and a writer.\n\nAbout me Background information including an archive of my public speaking\nMy writing I write a popular, research-based Substack on the world of work\nCourses & books Information on the courses that I’m currently teaching. I’m increasingly adapting my research into books, many of which will be openly available here."
   },
   {
     "objectID": "about.html",
@@ -16,9 +16,9 @@
   {
     "objectID": "courses.html",
     "href": "courses.html",
-    "title": "Courses",
+    "title": "Courses and Books",
     "section": "",
-    "text": "This page will link out to each course or book as they’re added.\n\nCourse/book one — coming soon"
+    "text": "I currently teach the following courses. I adapt each of these courses to use domain-specific datasets. My current teaching is at a hospitality school so all are currently available with real hospitality data. All are aimed at Masters and MBA students but can be adapted.\n\nData Visualisation Currently a 40 hour course split 50/50 between theory and practice. Most practical work uses the Grammar of Graphics approaches in R\nData Science Another 40 hour course split 50/50 between theory and practice. Practical work is in R\nIntroduction to statistics This comprises of 20 hours Bayesian Statistics and 20 hours Frequentist and Bootstrap approaches\nDecision Science In development for later in 2026. A wide-ranging course on decision science which uniquely combines 6 different schools of thought to provide a broad overview of the subject\nModern marketing for Hospitality - I teach modern approaches to marketing to 3 levels of hospitality students"
   },
   {
     "objectID": "about.html#me-around-the-web",
@@ -61,5 +61,19 @@
     "title": "About",
     "section": "Conferences and Presentations",
     "text": "Conferences and Presentations\n\n\n\n\n\n\n\n\nYear\nDescription\nMaterials\n\n\n\n\n2013\nConference Chair of HR Tech Europe “Big Data” conference, the first ‘People Analytics’ conference in Europe\n\n\n\n2014\nPresenter and workstream chair - HR Tech Europe\n\n\n\n2014\n“HR, meet Data Science” - presentation at IHRC (International HR Management - Geneva & Zurich Chapters)\npresentation\n\n\n2014\nEngagement Webinar - presentation of our thinking on engagement surveys\n presentation with notes\n\n\n2014\nTucana HR Change and Transformation Conference - presentation with CHRO of Orange Switzerland\npresentation\n\n\n2014\nCHRO Roundtable - Presentation “The current state of People Analytics”\npresentation\n\n\n2015\nChair - People Analytics World London\n\n\n\n2015\nIHRC Symposium. Presentation “Getting Started with People Analytics”\npresentation\n\n\n2015\nPeople Analytics 2015. Presentation “Text analytics for beginners”\npresentation\n\n\n2015\nWorkstream chair and presenter “Open Source People Analytics” - HR Tech Europe\npresentation\n\n\n2015\nERE Webinar - “Big Data & HR - a practitioner’s perspective”\npresentation\n\n\n2015\nEMFD presentation - “Innovative technology-based ways to run Engagement Surveys”\npresentation\n\n\n2015\nEngagement Webinar - presentation ““Why are our surveys different?” The complex challenge of the employee engagement market”\npresentation\n\n\n2016\nChair - People Analytics World London\n\n\n\n2016\nZurich R User Group presentation “Using R to automate Reporting - A case study of our work with Salt”\npresentation\n\n\n2017\nHR Inspired - presentation with David Balls, CHRO Rank “Putting data and analytics at the heart of your people decisions”\npresentation\n\n\n2018\nInsight222 member group presentation “A comprehensive introduction to Text Analytics in HR”\npresentation\n\n\n2018\nCIPD presentation - “How HR analytics teams can benefit from data science skills and techniques”\npresentation\n\n\n2019\nWharton People Analytics Conference 2019 - Presenter, Startup Pitch Competition\npresentation\n\n\n2019\nInnovation Circus presentation “Myths and realities of Text Analytics”\npresentation\n\n\n2020\nBritish Swiss Chamber of Commerce presentation - “Using employee ideas to drive innovation”\npresentation\n\n\n2020\nPeople Analytics World presentation “Word Embeddings - the heart of modern text analytics”\npresentation\n\n\n2020\nMyHRFuture presentation - “EMPLOYEE REVIEWS How to use Text Analytics to understand what they say”\npresentation\n\n\n2020\nPresentation to Polinode’s academic group “Text as Networks”\npresentation\n\n\n2021\nPeople Analytics World presentation - “Text analytics hacks - a cheat sheet for insightful text analytics”\npresentation\n\n\n2021\nImpactify Presentation - “Text analytics and Working From Home”\npresentation\n\n\n2022\nSoCal People Analytics Meetup presentation “REALLY understanding employee feedback”\npresentation\n\n\n2022\nPresentation at HWZ “The making of a world-leading AI service”\npresentation\n\n\n2023\nPeople Analytics World 2023 presentation “Getting value from text analytics: Text analytics in the age of GPT4”\npresentation\n\n\n2023\nInsight222 members meeting presentation “Understanding GPT models. GPT models and their impacts on People Analytics”\npresentation"
+  },
+  {
+    "objectID": "courses.html#courses",
+    "href": "courses.html#courses",
+    "title": "Courses and Books",
+    "section": "",
+    "text": "I currently teach the following courses. I adapt each of these courses to use domain-specific datasets. My current teaching is at a hospitality school so all are currently available with real hospitality data. All are aimed at Masters and MBA students but can be adapted.\n\nData Visualisation Currently a 40 hour course split 50/50 between theory and practice. Most practical work uses the Grammar of Graphics approaches in R\nData Science Another 40 hour course split 50/50 between theory and practice. Practical work is in R\nIntroduction to statistics This comprises of 20 hours Bayesian Statistics and 20 hours Frequentist and Bootstrap approaches\nDecision Science In development for later in 2026. A wide-ranging course on decision science which uniquely combines 6 different schools of thought to provide a broad overview of the subject\nModern marketing for Hospitality - I teach modern approaches to marketing to 3 levels of hospitality students"
+  },
+  {
+    "objectID": "courses.html#books-and-extended-writing",
+    "href": "courses.html#books-and-extended-writing",
+    "title": "Courses and Books",
+    "section": "Books and extended writing",
+    "text": "Books and extended writing\nAs part of my mission to improve access to easy-to-apply analytics education I’m currently adapting some of my courses to free, online books.\nPlease provide me with feedback or let me know if you find any errors.\n\nBayesian Statistics for People Analytics — coming soon"
   }
 ]

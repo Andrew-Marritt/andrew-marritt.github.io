@@ -1,9 +1,13 @@
 ---
-title: "Andrew Marritt"
+title: "The personal website for Andrew Marritt"
 ---
 
-Welcome. A line or two about who you are and what this site is for.
+Welcome. I'm an analyst, coach and teacher. One of the pioneers in the discipline of People Analytics I'm passionate about helping those new to the discipline learn how to create impact through their work.
 
-- [About me](about.qmd)
-- [My writing](https://andrewmarritt.substack.com)
-- [Courses & books](courses.qmd)
+An economist by training, I work to combine a deep, research-based, multi-disciplinary understanding of the world of work with a wide-range of innovative analytic approaches. For 10 years I pioneered the use of Machine Learning approaches, especially text analysis, to understand employee data.
+
+These days I act as an analytics consultant, an educator and a writer.
+
+- [About me](about.qmd) Background information including an archive of my public speaking
+- [My writing](https://andrewmarritt.substack.com) I write a popular, research-based Substack on the world of work
+- [Courses & books](courses.qmd) Information on the courses that I'm currently teaching. I'm increasingly adapting my research into books, many of which will be openly available here.

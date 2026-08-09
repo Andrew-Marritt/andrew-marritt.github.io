@@ -1,7 +1,20 @@
 ---
-title: "Courses"
+title: "Courses and Books"
 ---
+## Courses
 
-This page will link out to each course or book as they're added.
+I currently teach the following courses. I adapt each of these courses to use domain-specific datasets. My current teaching is at a hospitality school so all are currently available with real hospitality data. All are aimed at Masters and MBA students but can be adapted.
 
-- Bayesian Statistics for People Analytics — coming soon
+- **Data Visualisation** Currently a 40 hour course split 50/50 between theory and practice. Most practical work uses the Grammar of Graphics approaches in R
+- **Data Science** Another 40 hour course split 50/50 between theory and practice. Practical work is in R
+- **Introduction to statistics** This comprises of 20 hours Bayesian Statistics and 20 hours Frequentist and Bootstrap approaches
+- **Decision Science** In development for later in 2026. A wide-ranging course on decision science which uniquely combines 6 different schools of thought to provide a broad overview of the subject
+- **Modern marketing for Hospitality** - I teach modern approaches to marketing to 3 levels of hospitality students
+
+## Books and extended writing
+
+As part of my mission to improve access to easy-to-apply analytics education I'm currently adapting some of my courses to free, online books. 
+
+Please provide me with feedback or let me know if you find any errors.
+
+- **Bayesian Statistics for People Analytics** — coming soon
