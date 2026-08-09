@@ -3,3 +3,60 @@ title: "About"
 ---
 
 Your background, research interests, and experience.
+
+## Presentations and conferences
+
+Year | Description | Materials
+----|----|----
+2013 | Conference Chair of HR Tech Europe "Big Data" conference, the first 'People Analytics' conference in Europe | 
+2014 | Presenter and workstream chair - HR Tech Europe |
+2014 | "HR, meet Data Science" - presentation at  IHRC (International HR Management - Geneva Chapter) |
+2015 | Workstream chair and presenter "Open Source People Analytics" - HR Tech Europe |
+2015 | Chair - People Analytics World London |
+2016 | Chair - People Analytics World London| 
+2019 | Wharton People Analytics Conference 2019 - Presenter, Startup Pitch Competition |
+
+## Coverage from around the web
+
+### Writing
+
+Year | Description | Link
+----|----|----
+2016 | New ways to run engagement surveys - an article in EFMD's Global Focus Magazine | [GlobalFocus](https://globalfocusmagazine.com/new-ways-to-run-engagement-surveys/)
+2018 | An interview with David Green about Text Analysis in HR | [MyHRFuture](https://www.myhrfuture.com/blog/2018/11/21/using-text-analytics-with-people-data)
+2018 | An interview with GroSum on delivering impact through People Analytics | [GroSum](https://grosum.com/topTalk/hr-analytics-andrew-marritt/) 
+2023 | The impact of gpt and generative ai models on people analytics - A joint article written with David Green | [MyHRFuture](https://www.myhrfuture.com/blog/the-impact-of-gpt-and-generative-ai-models-on-people-analytics)
+2023 | Menschliche Interaktion lässt sich nicht ersetzen - An interview (in German) with the Engadin Post on the effects of Generative AI (page 5) | [Engadin Post](https://archiv.engadinerpost.ch/pdf/2023/044_2023_04_13.pdf)
+
+### Podcasts and Video
+
+Year | Description | Link
+----|----|----
+2016 | An interview for Matt Alder's Recruiting Future podcast about People Analytics | [Podcast](https://evergreenpodcasts.com/the-recruiting-future-podcast/ep-53-unique-insights-from-people-analytics#episodeContent)
+2018 | A presentation to the Hacking HR Forum in Zurich | [YouTube](https://youtu.be/A4KLc0htxZE?si=E8rlXR1888goAzli)
+2019 | A presentation at the SwissText academic / industry conference on building a text analytics startup | [YouTube](https://youtu.be/P1SI1XOp104?si=7SOFo7HGl6IG7IT2)
+2019 | A short interview on using text analysis to analyse employee feedback given to MyHRFuture | [YouTube](https://youtu.be/mBejOL6-wzk?si=uBIvypGCR7Dugqxe)
+2019 | Part of my presentation to the Innovation Circus conference on what was possible with text analytics | [YouTube](https://youtu.be/RlquYx4vlB8?si=B6EF_Q6B0_0XpujY)
+2019 | An episode of John Sumser's HRExaminer Executive Conversations podcast where I was interviewed People Analytics and text analysis | [Podcast](https://www.redcircle.com/shows/71a63416-01a3-4dba-a814-63a0540fdff7/ep/f99bcae5-66e8-43f2-b10f-33a3ae1d65e6)
+2020 | A discussion on the text themes identified about working from home during the Covid period | [YouTube](https://youtu.be/rT0tzyGwyHE?si=ydPvv87phMiSXDFm)
+2020 | A bite-sized clip on sentiment analysis linked to my text analysis course for MyHRFuture | [YouTube](https://youtu.be/J8tKkGeXGSY?si=ysdEmt3BHyyJh7zi)
+2021 | On the Experience Designers podcast discussing learning about employee experiences from their text feedback | [YouTube](https://youtu.be/xdfJIKCMVrU?si=dPmeNS8gBRdePVQ9)
+2021 | What is text analytics and what can you do with it? A presentation given to People Analytics World | [People Analytics World](https://peopleanalyticsworld.vhx.tv/videos/text-analytics-andrew-marritt-organizationview)
+2022 | Discussing People Analytics on the Analytics Power Hour podcast | [YouTube](https://youtu.be/yKbGr_RhM9A?si=qArKXa2WNx7HE7E6)
+2023 | NLP to understand Organisational Productivity - an interview with Cole Napper for People Analytics World | [Vimeo](https://vimeo.com/790842626?autoplay=1&muted=1&stream_id=Y2xpcHN8NjMyMjQ2MjJ8aWQ6ZGVzY3xbXQ%3D%3D)
+
+## Mentions and quotes
+
+Year | Description | Link
+----|----|----
+2016 | Commentary of People Analytics Tech Company Saberr in coverage in the Guardian | [Guardian](https://www.theguardian.com/small-business-network/2016/may/27/forget-myers-briggs-algorithms-predict-team-chemistry)
+2018 | Quote: "CHROs have said that they feel [pressured] as the only ones not bringing data to the table. The business is expecting HR to have similar numbers to marketing, though maybe not finance or operations,” observed Andrew Marritt, CEO of OrganizationView, a people analytics practice based in St Moritz, Switzerland. According to Marritt, the data-centric modern HR leader needs to know not only what has happened, but what is likely to happen." | [Financial Management Magazine](https://www.fm-magazine.com/issues/2018/dec/using-predictive-analytics-in-employee-retention/)
+
+## Citations in books and papers
+
+Year | Description | Link
+----|----|----
+2017 | The power of people: How successful organizations use workforce analytics to improve business performance by Nigel Guenole, Jonathan Ferrar, Sheri Feinzig | [Google Books](https://books.google.ch/books?hl=en&lr=&id=tzYlDwAAQBAJ&oi=fnd&pg=PT17&dq=%22andrew+marritt%22&ots=OQZNd8WZxR&sig=LdaLq_DoWJhbVpnaIb7jdabET48&redir_esc=y#v=onepage&q&f=false)
+2017 | Winning on HR Analytics: Leveraging Data for Competitive Advantage by Ramesh Soundararajan & Kuldeep Singh | [Sage](https://sk.sagepub.com/book/mono/winning-on-hr-analytics/toc)
+2017 | The best practices to excel at people analytics - by David Green in The Journal of Organizational Effectiveness: People and Performance | [Emerald Insight](https://www.emerald.com/joepp/article-abstract/4/2/137/233402/The-best-practices-to-excel-at-people-analytics?redirectedFrom=fulltext)
+2018 | CIPD Report - People analytics: driving business performance with speople data | [CIPD](https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/reports/people-analytics-uk-focus_2018_tcm18-47579.pdf)
