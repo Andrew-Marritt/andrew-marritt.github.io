@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Your background, research interests, and experience.
+On this page you can find some of the times I've been spoken, commented or been mentioned about applying analytics in organizations.
 
 ## Presentations and conferences
 
