@@ -2,6 +2,7 @@
 title: "The personal website for Andrew Marritt"
 ---
 
+<img src="files/AndrewPenInk.jpg" alt="Andrew Marritt" style="float:right; width:30%; margin: 0 0 1rem 1.5rem;">
 Welcome. I'm an analyst, coach and teacher. One of the pioneers in the discipline of People Analytics I'm passionate about helping those new to the discipline learn how to create impact through their work.
 
 An economist by training, I work to combine a deep, research-based, multi-disciplinary understanding of the world of work with a wide-range of innovative analytic approaches. For 10 years I pioneered the use of Machine Learning approaches, especially text analysis, to understand employee data.
