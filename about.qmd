@@ -2,26 +2,39 @@
 title: "About"
 ---
 
-On this page you can find some of the times I've been spoken, commented or been mentioned about applying analytics in organizations.
+Over the last 15 years I've been invited to speak on many occasions on innovative uses of analytics approaches to better understand employees and the world of work. On this page you can find some of the media coverage that I've had and the public presentations that I've given.
+
+For a broader overview of my background see my [LinkedIn profile](https://www.linkedin.com/in/andrewmarritt/)
+
+## Recognition
+
+All recognition is for Workometry, the AI-powered employee listening solution that I built
+
+Year | Description
+---- | ----
+2017 | Gartner Cool Vendor - HCM applying AI
+2016 | People Analytics World "Emerging Game Changer"
+2019 | Wharton People Anaytics conference - startup award runner up
+2017 | HR Tech Europe - Disrupt HR - runner up
 
 ## Conferences and Presentations
 
 Year | Description | Materials
 ----|----|----
-2013 | Conference Chair of HR Tech Europe "Big Data" conference, the first 'People Analytics' conference in Europe | 
-2014 | Presenter and workstream chair - HR Tech Europe |
+2013 | ****Conference Chair of HR Tech Europe** "Big Data" conference, the first 'People Analytics' conference in Europe | 
+2014 | Presenter and **workstream chair - HR Tech Europe** |
 2014 | "HR, meet Data Science" - presentation at  IHRC (International HR Management - Geneva & Zurich Chapters) | [presentation](files/Geneva%20International%20HR%20presentation.pdf)
 2014 | Engagement Webinar - presentation of our thinking on engagement surveys | [presentation with notes](files/Engagement%20survey%20webinar.pdf)
 2014 | Tucana HR Change and Transformation Conference - presentation with CHRO of Orange Switzerland | [presentation](files/Employee%20Insight_HR%20Conference%20October%202014%20v5.pptx)
 2014 | CHRO Roundtable - Presentation "The current state of People Analytics" | [presentation](files/Current%20state%20of%20HR%20Analytics%20%7C%20OrganizationView%20CHRO%20briefing.pdf)
-2015 | Chair - People Analytics World London |
+2015 | **Chair - People Analytics World** London |
 2015 | IHRC Symposium. Presentation "Getting Started with People Analytics" | [presentation](files/IHRC%20symposium.pdf)
 2015 | People Analytics 2015. Presentation "Text analytics for beginners" | [presentation](files/Text%20analytics%20for%20beginners.pdf)
-2015 | Workstream chair and presenter "Open Source People Analytics" - HR Tech Europe | [presentation](files/Open%20source%20presentation.pdf)
+2015 | **Workstream chair** and presenter "Open Source People Analytics" - HR Tech Europe | [presentation](files/Open%20source%20presentation.pdf)
 2015 | ERE Webinar - "Big Data & HR - a practitioner's perspective" | [presentation](files/Big%20data%20presentation%20II.pdf)
 2015 | EMFD presentation - "Innovative technology-based ways to run Engagement Surveys" | [presentation](files/EFMD%20presentation.pdf)
 2015 | Engagement Webinar - presentation "“Why are our surveys different?” The complex challenge of the employee engagement market" | [presentation](files/Engagement%20survey%20webinar%20feb%2023%2015.pdf)
-2016 | Chair - People Analytics World London| 
+2016 | **Chair - People Analytics World** London| 
 2016 | Zurich R User Group presentation "Using R to automate Reporting - A case study of our work with Salt" | [presentation](files/r%20User%20group%20deck.pdf)
 2017 | HR Inspired - presentation with David Balls, CHRO Rank "Putting data and analytics at the heart of your people decisions" | [presentation](files/2017-06-28-Inspired%20Conferences-Analytics-DB%20and%20AM-v2.pptx)
 2018 | Insight222 member group presentation "A comprehensive introduction to Text Analytics in HR" | [presentation](files/Text%20Analytics%20Overview%20To%20Send.pdf)
@@ -42,7 +55,7 @@ Year | Description | Materials
 
 ## Coverage from around the web
 
-### Writing
+### Media and written coverage
 
 Year | Description | Link
 ----|----|----
