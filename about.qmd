@@ -4,17 +4,41 @@ title: "About"
 
 On this page you can find some of the times I've been spoken, commented or been mentioned about applying analytics in organizations.
 
-## Presentations and conferences
+## Conferences and Presentations
 
 Year | Description | Materials
 ----|----|----
 2013 | Conference Chair of HR Tech Europe "Big Data" conference, the first 'People Analytics' conference in Europe | 
 2014 | Presenter and workstream chair - HR Tech Europe |
-2014 | "HR, meet Data Science" - presentation at  IHRC (International HR Management - Geneva Chapter) |
-2015 | Workstream chair and presenter "Open Source People Analytics" - HR Tech Europe |
+2014 | "HR, meet Data Science" - presentation at  IHRC (International HR Management - Geneva & Zurich Chapters) | [presentation](files/Geneva%20International%20HR%20presentation.pdf)
+2014 | Engagement Webinar - presentation of our thinking on engagement surveys | [presentation with notes](files/Engagement%20survey%20webinar.pdf)
+2014 | Tucana HR Change and Transformation Conference - presentation with CHRO of Orange Switzerland | [presentation](files/Employee%20Insight_HR%20Conference%20October%202014%20v5.pptx)
+2014 | CHRO Roundtable - Presentation "The current state of People Analytics" | [presentation](files/Current%20state%20of%20HR%20Analytics%20%7C%20OrganizationView%20CHRO%20briefing.pdf)
 2015 | Chair - People Analytics World London |
+2015 | IHRC Symposium. Presentation "Getting Started with People Analytics" | [presentation](files/IHRC%20symposium.pdf)
+2015 | People Analytics 2015. Presentation "Text analytics for beginners" | [presentation](files/Text%20analytics%20for%20beginners.pdf)
+2015 | Workstream chair and presenter "Open Source People Analytics" - HR Tech Europe | [presentation](files/Open%20source%20presentation.pdf)
+2015 | ERE Webinar - "Big Data & HR - a practitioner's perspective" | [presentation](files/Big%20data%20presentation%20II.pdf)
+2015 | EMFD presentation - "Innovative technology-based ways to run Engagement Surveys" | [presentation](files/EFMD%20presentation.pdf)
+2015 | Engagement Webinar - presentation "“Why are our surveys different?” The complex challenge of the employee engagement market" | [presentation](files/Engagement%20survey%20webinar%20feb%2023%2015.pdf)
 2016 | Chair - People Analytics World London| 
-2019 | Wharton People Analytics Conference 2019 - Presenter, Startup Pitch Competition |
+2016 | Zurich R User Group presentation "Using R to automate Reporting - A case study of our work with Salt" | [presentation](files/r%20User%20group%20deck.pdf)
+2017 | HR Inspired - presentation with David Balls, CHRO Rank "Putting data and analytics at the heart of your people decisions" | [presentation](files/2017-06-28-Inspired%20Conferences-Analytics-DB%20and%20AM-v2.pptx)
+2018 | Insight222 member group presentation "A comprehensive introduction to Text Analytics in HR" | [presentation](files/Text%20Analytics%20Overview%20To%20Send.pdf)
+2018 | CIPD presentation - "How HR analytics teams can benefit from data science skills and techniques" | [presentation](files/Data%20Science%20presentation.pdf)
+2019 | Wharton People Analytics Conference 2019 - Presenter, Startup Pitch Competition | [presentation](files/Wharton%20People%20Analytics.pdf)
+2019 | Innovation Circus presentation "Myths and realities of Text Analytics" | [presentation](files/TextMythsFinal.pdf)
+2020 | British Swiss Chamber of Commerce presentation - "Using employee ideas to drive innovation" | [presentation](files/EmployeeInnovation.pdf)
+2020 | People Analytics World presentation "Word Embeddings - the heart of modern text analytics" | [presentation](files/London%20People%20Analytics%20Presentation.pdf)
+2020 | MyHRFuture presentation - "EMPLOYEE REVIEWS How to use Text Analytics to understand what they say" | [presentation](files/EmployeeReviewWithEnd.pdf)
+2020 | Presentation to Polinode's academic group "Text as Networks" | [presentation](files/PolinodeAcademic.pdf)
+2021 | People Analytics World presentation - "Text analytics hacks - a cheat sheet for insightful text analytics" | [presentation](files/WorkshopPresentationv2.pdf)
+2021 | Impactify Presentation - "Text analytics and Working From Home" | [presentation](files/ImpactifyOverview.pdf)
+2022 | SoCal People Analytics Meetup presentation "REALLY understanding employee feedback" | [presentation](files/SoCal%20Meeting%20OrganizationView.pdf)
+2022 | Presentation at HWZ "The making of a world-leading AI service" | [presentation](files/HRZ%20Talk2.pdf)
+2023 | People Analytics World 2023 presentation "Getting value from text analytics: Text analytics in the age of GPT4" | [presentation](files/PAW23.pdf)
+2023 | Insight222 members meeting presentation "Understanding GPT models. GPT models and their impacts on People Analytics" | [presentation](files/ZurichJune23Insight222.pdf)
+: {tbl-colwidths="[10,70,20]"}
 
 ## Coverage from around the web
 
@@ -27,6 +51,7 @@ Year | Description | Link
 2018 | An interview with GroSum on delivering impact through People Analytics | [GroSum](https://grosum.com/topTalk/hr-analytics-andrew-marritt/) 
 2023 | The impact of gpt and generative ai models on people analytics - A joint article written with David Green | [MyHRFuture](https://www.myhrfuture.com/blog/the-impact-of-gpt-and-generative-ai-models-on-people-analytics)
 2023 | Menschliche Interaktion lässt sich nicht ersetzen - An interview (in German) with the Engadin Post on the effects of Generative AI (page 5) | [Engadin Post](https://archiv.engadinerpost.ch/pdf/2023/044_2023_04_13.pdf)
+: {tbl-colwidths="[10,70,20]"}
 
 ### Podcasts and Video
 
@@ -44,6 +69,7 @@ Year | Description | Link
 2021 | What is text analytics and what can you do with it? A presentation given to People Analytics World | [People Analytics World](https://peopleanalyticsworld.vhx.tv/videos/text-analytics-andrew-marritt-organizationview)
 2022 | Discussing People Analytics on the Analytics Power Hour podcast | [YouTube](https://youtu.be/yKbGr_RhM9A?si=qArKXa2WNx7HE7E6)
 2023 | NLP to understand Organisational Productivity - an interview with Cole Napper for People Analytics World | [Vimeo](https://vimeo.com/790842626?autoplay=1&muted=1&stream_id=Y2xpcHN8NjMyMjQ2MjJ8aWQ6ZGVzY3xbXQ%3D%3D)
+: {tbl-colwidths="[10,70,20]"}
 
 ## Mentions and quotes
 
@@ -51,6 +77,7 @@ Year | Description | Link
 ----|----|----
 2016 | Commentary of People Analytics Tech Company Saberr in coverage in the Guardian | [Guardian](https://www.theguardian.com/small-business-network/2016/may/27/forget-myers-briggs-algorithms-predict-team-chemistry)
 2018 | Quote: "CHROs have said that they feel [pressured] as the only ones not bringing data to the table. The business is expecting HR to have similar numbers to marketing, though maybe not finance or operations,” observed Andrew Marritt, CEO of OrganizationView, a people analytics practice based in St Moritz, Switzerland. According to Marritt, the data-centric modern HR leader needs to know not only what has happened, but what is likely to happen." | [Financial Management Magazine](https://www.fm-magazine.com/issues/2018/dec/using-predictive-analytics-in-employee-retention/)
+: {tbl-colwidths="[10,70,20]"}
 
 ## Citations in books and papers
 
@@ -60,3 +87,4 @@ Year | Description | Link
 2017 | Winning on HR Analytics: Leveraging Data for Competitive Advantage by Ramesh Soundararajan & Kuldeep Singh | [Sage](https://sk.sagepub.com/book/mono/winning-on-hr-analytics/toc)
 2017 | The best practices to excel at people analytics - by David Green in The Journal of Organizational Effectiveness: People and Performance | [Emerald Insight](https://www.emerald.com/joepp/article-abstract/4/2/137/233402/The-best-practices-to-excel-at-people-analytics?redirectedFrom=fulltext)
 2018 | CIPD Report - People analytics: driving business performance with speople data | [CIPD](https://www.cipd.org/globalassets/media/knowledge/knowledge-hub/reports/people-analytics-uk-focus_2018_tcm18-47579.pdf)
+: {tbl-colwidths="[10,70,20]"}
